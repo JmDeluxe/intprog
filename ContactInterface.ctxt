@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=ContactInterface
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment10.params=sContact
+comment10.target=void\ setSContact(java.lang.String)
+comment11.params=sLocation
+comment11.target=void\ setSLocation(java.lang.String)
+comment12.params=
+comment12.target=void\ displayError()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=sLName
+comment8.target=void\ setSLName(java.lang.String)
+comment9.params=sFName
+comment9.target=void\ setSFName(java.lang.String)
+numComments=13
